@@ -11,7 +11,7 @@ Para el valor de ![formula](https://render.githubusercontent.com/render/math?mat
 
 ![mach01](https://user-images.githubusercontent.com/86519267/123661027-78b5a000-d834-11eb-8eb6-8f3b90319759.png)
 
-La solución pues se encuentra en el intervalo ![formula](https://render.githubusercontent.com/render/math?math=M \in [ 0, 1 ]). El valor de ![formula](https://render.githubusercontent.com/render/math?math=M), el número de iteraciones y el error se presentan para ambos métodos:
+La solución pues se encuentra en el intervalo ![formula](https://render.githubusercontent.com/render/math?math=M\in[0.7,0.8]). El valor de ![formula](https://render.githubusercontent.com/render/math?math=M), el número de iteraciones y el error se presentan para ambos métodos:
 
  Parámetro  | Bisección | Secante
 ------------ | ------------- | -------------
